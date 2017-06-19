@@ -33,7 +33,7 @@
 .values {
   background-image: url('../images/values-bg.jpg');
   background-size: cover;
-  color: #6e013e;
+  color: #000;
   padding-bottom: 5rem;
 }
 .value-heading {
@@ -45,7 +45,7 @@
 }
 
 .contacts {
-	color: #a0025a;
+	color: #000;
 }
 
 /* Categories
@@ -53,7 +53,7 @@
 .categories {
   background-image: url('../images/values-bg.jpg');
   background-size: cover;
-  color: #6e013e;
+  color: #000;
 }
 .categories .section-description { 
   margin-bottom: 4rem;
