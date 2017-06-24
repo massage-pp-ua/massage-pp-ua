@@ -1,9 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Руслан Закарьяев
-N:Закарьяев;Руслан
 TITLE:массажист
-EMAIL:ruslan.zakariaev@gmail.com
+EMAIL;pref:ruslan.zakariaev@gmail.com
 URL:massage.pp.ua
-TEL:+380635521220
+TEL;cell:+380635521220
 END:VCARD
