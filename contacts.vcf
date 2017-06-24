@@ -1,7 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Руслан
-N:Закарьяев;;
-item1.EMAIL;TYPE=INTERNET:ruslan.zakariaev@gmail.com
-item2.TEL:+380635521220
+FN:Руслан Закарьяев
+N:Руслан;Закарьяев;
+EMAIL:ruslan.zakariaev@gmail.com
+TEL:+380635521220
+URL:massage.pp.ua
 END:VCARD
